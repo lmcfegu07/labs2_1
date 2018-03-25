@@ -3,8 +3,8 @@ package net.lkrnac.book.eiws.chapter04.restcontroller;
 import java.util.Collection;
 
 import net.lkrnac.book.eiws.chapter04.UrlConstants;
-import net.lkrnac.book.eiws.chapter04.model.User;
-import net.lkrnac.book.eiws.chapter04.service.UserService;
+
+
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
